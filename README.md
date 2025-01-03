@@ -17,7 +17,7 @@ This web application displays movie cards with their titles and release years us
 
 # Setup <br>
 
-##Clone the repository: <br>
+## Clone the repository: <br>
 git clone [https://github.com/your-username/movie-card-display-app.git](https://github.com/itswasabi101/absolutecinema.git) <br>
 
 ## Navigate to the project directory: <br>
